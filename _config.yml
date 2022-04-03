@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
+
+# allow the use of letex in markdown code
 use_math:true
+# allow the index content
+1.TOC{:toc}
